@@ -67,3 +67,33 @@ justify-content: center;
   justify-content: space-around;
   align-items: center;
 }
+.Login-Background{
+  background-image: url("./images/Login-Background.jpg");
+  height: 800px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Login_Box{
+  width:45%;
+  height:380px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.input-label {
+  margin: 40px 0px;
+}
+.input-name {
+  display: inline-block;
+  width:195px;
+  text-align: center;
+}
+.input{
+  padding:10px;
+  width:50%;
+}
+.input-button{
+  display: flex;
+  justify-content: center;
+}

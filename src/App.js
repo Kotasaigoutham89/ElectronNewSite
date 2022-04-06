@@ -1,22 +1,23 @@
 import "./App.css"
-import Carouselslider from "./components/Carousel";
-import CustomerReviews from "./components/CustomerReviews";
-import Footer from "./components/Footer";
-import Navbar from './components/Navbar';
-import Ourteaching from "./components/Ourteaching";
-import TutoringSubjects from "./components/TutoringSubjects";
+import { Route, Routes } from 'react-router-dom';
+import Login from "./components/Login";
+import Register from "./components/Register";
+import Home from "./Home";
+const RoutesApp = () => {
+  return (
+      <Routes>
+        <Route path="/"  element={<Home/>}/>
+        <Route path="/Login" element={<Login/>}/>
+        <Route path="/Register" element={<Register/>}/>
+      </Routes>
+  )
+}
 function App() {
   return (
     <>
-      <Navbar />
-      <div style={{backgroundColor:"#E5E7EB"}}>
-      <Carouselslider/>
-      <TutoringSubjects/>
-      <Ourteaching/>
-      <CustomerReviews/>
-      <Footer/>
-      </div>
+      <RoutesApp/>
     </>
+
   );
 }
 export default App;
