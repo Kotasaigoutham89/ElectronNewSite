@@ -84,6 +84,9 @@ justify-content: center;
 .input-label {
   margin: 40px 0px;
 }
+.input-label-register{
+  margin: 25px 0px;
+}
 .input-name {
   display: inline-block;
   width:195px;
