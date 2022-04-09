@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/electron/static/css/main.524ed64c.css",
-    "main.js": "/electron/static/js/main.7315b47b.js",
-    "static/media/Physics_Image.jpg": "/electron/static/media/Physics_Image.eea0578837ed14d38df7.jpg",
-    "static/media/sliderimage3.jpg": "/electron/static/media/sliderimage3.3538165fb2c336221e70.jpg",
-    "static/media/sliderimage1.jpg": "/electron/static/media/sliderimage1.d8db1dead65e8c2a2de5.jpg",
-    "static/media/Chemistry_Image.jpg": "/electron/static/media/Chemistry_Image.e7f0f52fb0e6cdd4f69a.jpg",
-    "static/media/sliderimage2.jpg": "/electron/static/media/sliderimage2.b587d864c458c029f855.jpg",
-    "static/media/Login-Background.jpg": "/electron/static/media/Login-Background.62c4b6be91f313c21cb6.jpg",
-    "index.html": "/electron/index.html",
-    "main.524ed64c.css.map": "/electron/static/css/main.524ed64c.css.map",
-    "main.7315b47b.js.map": "/electron/static/js/main.7315b47b.js.map"
+    "main.css": "/ElectronNewSite/static/css/main.5dab08fc.css",
+    "main.js": "/ElectronNewSite/static/js/main.782fbfc3.js",
+    "static/media/Physics_Image.jpg": "/ElectronNewSite/static/media/Physics_Image.eea0578837ed14d38df7.jpg",
+    "static/media/sliderimage3.jpg": "/ElectronNewSite/static/media/sliderimage3.3538165fb2c336221e70.jpg",
+    "static/media/sliderimage1.jpg": "/ElectronNewSite/static/media/sliderimage1.d8db1dead65e8c2a2de5.jpg",
+    "static/media/Chemistry_Image.jpg": "/ElectronNewSite/static/media/Chemistry_Image.e7f0f52fb0e6cdd4f69a.jpg",
+    "static/media/sliderimage2.jpg": "/ElectronNewSite/static/media/sliderimage2.b587d864c458c029f855.jpg",
+    "static/media/Login-Background.jpg": "/ElectronNewSite/static/media/Login-Background.62c4b6be91f313c21cb6.jpg",
+    "index.html": "/ElectronNewSite/index.html",
+    "main.5dab08fc.css.map": "/ElectronNewSite/static/css/main.5dab08fc.css.map",
+    "main.782fbfc3.js.map": "/ElectronNewSite/static/js/main.782fbfc3.js.map"
   },
   "entrypoints": [
-    "static/css/main.524ed64c.css",
-    "static/js/main.7315b47b.js"
+    "static/css/main.5dab08fc.css",
+    "static/js/main.782fbfc3.js"
   ]
 }
