@@ -1,7 +1,7 @@
 {
   "name": "electron",
   "version": "0.1.0",
-  "homepage": "https://Kotasaigoutham89.github.io/electron",
+  "homepage": "https://Kotasaigoutham89.github.io/ElectronNewSite",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.8.2",
